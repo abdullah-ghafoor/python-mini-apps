@@ -24,16 +24,15 @@ Generates a QR code from a given URL or text input and saves it as an image file
 
 -  File: `qr_code_generator/`
 
-## 💡 Purpose
+## Purpose
 
 These mini projects were created as part of my learning journey in Python. They demonstrate usage of:
 - GUI frameworks
 - Python standard libraries
 - External libraries for real-world use cases 
 
----
-
-##  Getting Started
+## Getting Started
 
 Run Individual Projects using streamlit run __________.py command
+
 Note: You may need to install libraries like streamlit or qrcode manually per project.
